@@ -5,7 +5,7 @@
 Quick & Easy Webhook Spammer & Deleter written in Python.
 ## **Disclaimer:**
 **This tool is for educational use only, the author will not be held responsible for any misuse of this tool.**
-## ## Features
+## Features
 
 - Webhook Spam
 - Webhook Delete
