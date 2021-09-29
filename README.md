@@ -18,7 +18,7 @@ Quick & Easy Webhook Spammer & Deleter written in Python.
 git clone https://github.com/cutieQue/WebhookSpammer.git
 ```
 
-- **Install Requirements Run**
+- **Install Requirements**
 
 ```
 "install.bat"
