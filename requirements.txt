@@ -1,4 +1,2 @@
-sys
-os
 requests
 colorama
