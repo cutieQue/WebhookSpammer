@@ -22,7 +22,7 @@ print(f"{Fore.LIGHTRED_EX}░░░╚═╝░░░╚═╝░░╚═══
 sleep(0.2)
 print(f"{Fore.LIGHTYELLOW_EX}Version = 1.1\nDev: cutieQue")
 sleep(1)
-print(f'\n           [{Fore.LIGHTBLUE_EX}1{Fore.RESET}] {Fore.LIGHTYELLOW_EX}Webhook Spammer{Fore.RESET}     [{Fore.LIGHTBLUE_EX}2{Fore.RESET}] {Fore.LIGHTYELLOW_EX}Webhook Deleter\n')
+print(f'{Fore.YELLOW}\n|           {Fore.RESET}[{Fore.LIGHTBLUE_EX}1{Fore.RESET}] {Fore.LIGHTYELLOW_EX}Webhook Spammer{Fore.RESET}     [{Fore.LIGHTBLUE_EX}2{Fore.RESET}] {Fore.LIGHTYELLOW_EX}Webhook Deleter		{Fore.YELLOW}|\n')
 print(f'{Fore.LIGHTRED_EX}[>] {Fore.RESET}', end='')
 choice = int(input(''))
 
