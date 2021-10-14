@@ -30,7 +30,7 @@ git clone https://github.com/cutieQue/WebhookSpammer.git
 "pip install -r requirements.txt"
 ```
 
-- **Then Run**
+- **Then Run Newly Created**
 
 ```
 runSpammer.bat"
